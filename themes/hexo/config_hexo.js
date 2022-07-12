@@ -1,6 +1,6 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['Hi，我是无知,欢迎来到我的博客🎉，以后公众号的内容改成在这发了'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['Hi，我是无知,欢迎来到我的博客🎉'], // 首页大图标语文字
 
   // 菜单配置
   MENU_CATEGORY: true, // 显示分类
